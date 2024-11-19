@@ -52,17 +52,17 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
-      'About Hilink',
-      'Press Releases',
-      'Environment',
-      'Jobs',
+      'Terms & Condition',
+      'Eula',
+      'Safety Center',
+      'Professional Guideline',
+      'Cookies',
       'Privacy Policy',
-      'Contact Us',
     ],
   },
   {
     title: 'Our Community',
-    links: ['Faithmeet connect', 'Faithmeet News', 'Faithmeet Programs'],
+    links: ['Faithmeet connect', 'Services', 'Press','Support', 'Download'],
   },
 ];
 
