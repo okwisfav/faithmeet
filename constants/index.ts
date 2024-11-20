@@ -18,32 +18,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
+    title: 'Get Connected Both Online And Offline',
     icon: '/map.svg',
     variant: 'green',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'Get connected with the Faithment app and have the chance to manifest your Christian love, share your experiences, and enjoy a more fulfilling life',
   },
   {
-    title: 'Set an adventure schedule',
+    title: ' Lets Have Some Fun Together!',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      "Life can get busy, but it's important to take time for fun and fellowship. Let's connect and create some amazing memories together! Here are a few ideas to get you started:",
   },
   {
-    title: 'Technology using augment reality',
+    title: 'Community Service Projec',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'Are you ready to make a positive impact on your community? Lets join forces and make a difference together!',
   },
   {
-    title: 'Many new locations every month',
+    title: 'Locations',
     icon: '/location.svg',
     variant: 'orange',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'Highlight local churches, ministries, or organizations that are making a difference in your community.',
   },
 ];
 
